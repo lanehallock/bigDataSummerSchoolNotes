@@ -1,1 +1,18 @@
 Git is amazing for version control.
+
+Connecting to git:
+
+git --version
+
+git config --global user.name "lanehallock"
+git config --global user.email "lane.w.hallock@ndsu.edu"
+mkdir BigDataNotes
+git init
+ls
+ls -a (for more stuff)
+git status
+vim for making/change files
+git add gitNotes.txt
+status 
+git commit -m "message stuff"
+
